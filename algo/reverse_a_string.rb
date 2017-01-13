@@ -3,7 +3,8 @@
 # comes with Ruby!
 
 def reverse_a_string(string)
-
+  letters = string.split("")
+  p letters
 end
 
 # Driver code - don't touch anything below this line.
